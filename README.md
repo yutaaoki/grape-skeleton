@@ -7,8 +7,16 @@ This is a skeleton project for Grape, a REST framework for Ruby.
 
 Use Bundler to namage ruby gems.
 
-To install the gems.
+To install the gems:
 
 ```shell
 bundle install
+```
+
+## Testing
+
+To run the test using Rspec:
+
+```shell
+rspec
 ```
