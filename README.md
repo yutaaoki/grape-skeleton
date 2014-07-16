@@ -13,10 +13,18 @@ To install the gems:
 bundle install
 ```
 
-## Testing
+## Test
 
 To run the test using Rspec:
 
 ```shell
 rspec
+```
+
+## Run
+
+To run the app using rackup:
+
+```shell
+rackup config.ru
 ```
